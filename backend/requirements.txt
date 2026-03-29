@@ -1,0 +1,11 @@
+bcrypt
+body-parser
+dotenv
+express
+jsonwebtoken
+mongoose
+multer
+passport
+passport-google-oauth20
+passport-local
+web3
